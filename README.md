@@ -1,7 +1,7 @@
 # koa-mysql
 
 ![](/public/iot1.png)
-![](/public/iot1.png)
+![](/public/iot2.png)
 
 ## Build Setup
 
