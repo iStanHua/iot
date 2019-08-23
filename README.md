@@ -20,3 +20,6 @@ npm run serve
 
 # run pm2
 npm run pm2
+
+![](/public/iot1.png)
+![](/public/iot1.png)
