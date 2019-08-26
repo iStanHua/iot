@@ -7,8 +7,7 @@
     "broker": "./node_modules/.bin/nodemon broker",
     "server": "./node_modules/.bin/nodemon server",
     "client": "./node_modules/.bin/nodemon client",
-    "app": "./node_modules/.bin/nodemon start",
-    "pm2": "pm2 start app.json"
+    "app": "./node_modules/.bin/nodemon start"
   },
   "dependencies": {
     "koa": "^2.8.1",
