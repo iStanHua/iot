@@ -15,11 +15,10 @@ npm run broker
 # server端
 npm run server
 
-# app端
-npm run app
+# client端
+npm run client
 
 # serve端
-npm run serve
+npm run app
 
-# run pm2
-npm run pm2
+```
