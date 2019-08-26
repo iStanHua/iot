@@ -7,4 +7,4 @@ require('babel-register')({
   ]
 })
 
-module.exports = require('./broker/index')
+module.exports = require('./app/index')
